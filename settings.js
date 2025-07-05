@@ -9,10 +9,10 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188'] //['628','628'] 2 owner atau lebih
+global.owner = ['62881012214934'] //['628','628'] 2 owner atau lebih
 global.packname = 'Bot WhatsApp'
-global.author = 'Nazedev'
-global.botname = 'Naze Bot'
+global.author = 'ALDAN KIANDRA'
+global.botname = 'Lady Weldcore'
 global.listprefix = ['+','!','.']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json' // Taruh url mongodb di sini jika menggunakan mongodb. Format : 'mongodb+srv://...'
@@ -29,14 +29,14 @@ global.fake = {
 }
 
 global.my = {
-	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
-	gc: 'https://chat.whatsapp.com/B5qJIwZHm4VEYZJQE6iMwy',
-	ch: '120363250409960161@newsletter',
+	yt: '',
+	gh: '',
+	gc: '',
+	ch: '',
 }
 
 global.limit = {
-	free: 20,
+	free: 200,
 	premium: 999,
 	vip: 9999
 }
@@ -62,7 +62,7 @@ global.mess = {
 }
 
 global.APIs = {
-	hitori: 'https://api.hitori.pw',
+	hitori: '',
 }
 global.APIKeys = {
 	'https://api.hitori.pw': 'htrkey-77eb83c0eeb39d40',
